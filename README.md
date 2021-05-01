@@ -17,8 +17,8 @@ Options:
           -v        Print version number
 
 
-Examples: 	aes.exe -e samplepassword myfile.txt encoded.aes
-                    aes.exe -d samplepassword encoded.aes myfile.txt
+          Examples: 	aes.exe -e samplepassword myfile.txt encoded.aes
+                              aes.exe -d samplepassword encoded.aes myfile.txt
 
 by Fatih Kodak
 http://www.f2ko.de
